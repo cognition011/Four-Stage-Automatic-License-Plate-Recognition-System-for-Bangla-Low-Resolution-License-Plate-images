@@ -1,4 +1,4 @@
-# Four-Stage-Automatic-License-Plate-Recognition-System-for-Bangla-Low-Resolution-License-Plate-images
+# Four Stage Automatic License Plate Recognition System for Bangla Low Resolution License Plate images
 <a href="https://github.com/cognition011/Four-Stage-Automatic-License-Plate-Recognition-System-for-Bangla-Low-Resolution-License-Plate-images/blob/main/Final_Thesis_Automatic_Bangla_License_Plate_Detection_and_Recognition.pdf" target="_blank">Read PDF</a>
 ### Abstract
 Automatic License Plate Recognition (ALPR) Sys- tem is a crucial task that is used in numerous
