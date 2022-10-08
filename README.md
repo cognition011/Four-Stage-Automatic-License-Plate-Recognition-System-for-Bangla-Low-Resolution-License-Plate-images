@@ -13,3 +13,11 @@ high resolution of dimension [256 × 192] with a scale factor ratio of 8. For tr
 we also collected and trained the models on a dataset of 2211 images. The Peak signal-to-noise
 ratio (PSNR) for the reconstruction on 200 testing samples is 12.587.The optical character re-
 cognition accuracy for the reconstructed and ground truth images are 78 respectively.
+
+### Methodology
+
+![alt text](process.png)
+
+### Result
+
+![alt text](recog.png)
